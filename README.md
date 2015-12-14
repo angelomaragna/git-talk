@@ -1,6 +1,6 @@
 # Notes on a Git Talk
 
-A brief series of annotations to give a talk about git
+This is a brief list of arguments to talk about on a short git conference talk.
 
 * brief terminology explanation: branch (and tipical branch names) head checkout push pull commit staged stash merge
 * [Creating a Happy Git Environment on OS X](https://gist.github.com/trey/2722934)

@@ -17,4 +17,6 @@ git log --graph --oneline --decorate --date=relative --all
 ```
 * branches [branch naming best practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)
 * git remote (adding a github and a bitbucket origin)
-* 
+
+
+[wip]

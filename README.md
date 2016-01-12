@@ -49,5 +49,5 @@ git stash
 ### References
 * [A quick GIT guide](http://rogerdudler.github.io/git-guide/)
 * [Creating a Happy Git Environment on OS X](https://gist.github.com/trey/2722934)
-* [Tips to work better with git]([Tips from gitlab](https://about.gitlab.com/2015/02/19/8-tips-to-help-you-work-better-with-git/))
+* [Tips to work better with git]([Tips from gitlab](https://about.gitlab.com/2015/02/19/8-tips-to-help-you-work-better-with-git/)
 * [branch naming best practices](http://stackoverflow.com/questions/273695/git-branch-naming-best-practices)

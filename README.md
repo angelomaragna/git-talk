@@ -27,13 +27,13 @@ So, when you are in your *working directory*, and you want to set a, let's say, 
 GIT is a command line tool, but many softwares can help you in a graphical and more nice way. Typing your commands is usually faster. We'll have a look later at Atlassian's [SourceTree](https://www.sourcetreeapp.com/).
 
 ### When GIT should be used?
-*Always*. If you plan to code, then you do should be using GIT. You can track a whole project, or a single feature you are developing on an existing project.  
-Furthermore, GIT is the most modern way to *concurrently work on a project* with your colleagues. So if you plan to work concurrently with other colleagues on the same application, do it with GIT.
+**Always**. If you plan to code, then you do should be using GIT. You can track a whole project, or a single feature you are developing on an existing project.  
+Furthermore, GIT is the most modern way to **concurrently work on a project** with your colleagues. So if you plan to work concurrently with other colleagues on the same application, do it with GIT.
 
 ### Which are the advantages?
-Git represents *a complete backup of your work*, so it represent an additional way to keep your code safe from failures on the systems you are using. Plus, it is a sort of incremental backup, so you can *go back in time* to any commit you previously did, at any time.
-GIT is a *faster way to deploy your project*. If you are still using ftp, you should consider switch to git. While the ftp protocol uploads every single file of your project, GIT compresses all data and transfer it in a single file, hashing it to ensure its consistency, and unpacking it to the destination. 
-Finally we can say that GIT is a simple way to handle coding conflicts. For exmaple if you push your code to a common repository, and since last time you pushed your code, another colleague did some changes, you can move your work to a branch.
+Git represents **a complete backup of your work**, so it represent an additional way to keep your code safe from failures on the systems you are using. Plus, it is a sort of incremental backup, so you can **go back in time** to any commit you previously did, at any time.
+GIT is a **faster way to deploy your project**. If you are still using ftp, you should consider switch to git. While the ftp protocol uploads every single file of your project, GIT compresses all data and transfer it in a single file, hashing it to ensure its consistency, and unpacking it to the destination. 
+Finally we can say that GIT gives you a simple way to handle coding conflicts. For exmaple if you push your code to a common repository, and since last time you pushed your code, another colleague did some changes, you can move your work to a new branch. This will let you and your colleague share the code, test it, and perform any required revision.
 
 Let's recap:
 * is a compete backup of your work
@@ -44,6 +44,11 @@ Let's recap:
 
 ### Begin with your new repository
 * init / clone / look inside .git
+* create and commit first files (ie: readme and index) (vim / status / add / commit / status)
+* create and commit some other files (ie: license and ) (status / add / commit / status / log)
+* add a package (composer / .gitignore / status / add / commit / status / log)
+* change a file, delete some (status / add / commit / status / log)
+* 
 * status
 * add
 * commit
@@ -51,8 +56,6 @@ Let's recap:
 * clone a remote repo and look at a more complex git tree
 
 ### Start 
-...
-git stash
 
 
 

@@ -42,20 +42,16 @@ Let's recap:
 * let's you easily handle coding conflicts with other colleagues
 
 
-### Begin with your new repository
+### Practical example
 * init / clone / look inside .git
 * create and commit first files (ie: readme and index) (vim / status / add / commit / status)
 * create and commit some other files (ie: license and ) (status / add / commit / status / log)
 * add a package (composer / .gitignore / status / add / commit / status / log)
 * change a file, delete some (status / add / commit / status / log)
-* 
-* status
-* add
-* commit
-* log
-* clone a remote repo and look at a more complex git tree
+* create a github repository and push to remote 
 
-### Start 
+* clone a remote repo and look at a more complex git tree
+* inspect projects with sourcetree
 
 
 

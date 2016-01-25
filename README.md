@@ -55,8 +55,6 @@ Let's recap:
 
 
 
-[wip]
-
 ### References
 * [A quick GIT guide](http://rogerdudler.github.io/git-guide/)
 * [Creating a Happy Git Environment on OS X](https://gist.github.com/trey/2722934)
